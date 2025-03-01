@@ -1,24 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import LayOut from './components/LayOut';
+import Header from './components/header/header';
+import Navbar from './components/header/Navbar';
+import Title from './components/Title';
+import InputBox from './components/InputBox';
+import MiddleContainer from './components/MiddleContainer';
+import Interduction from './components/cardcomponent/Interduction';
+import PopularCard from './components/PopualrCards/PopularCard';
+import CommentCards from './components/commentCard/CommentCards'
+import Help from './components/help';
+import Footer from './components/Footer';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <LayOut>
+      <Header>
+        <Navbar>
+
+        </Navbar>
+      </Header>
+      
+      <Title></Title>
+      <div className='main-container'>
+      <InputBox></InputBox>
+      </div>
+      <div className='main-container'>
+      <MiddleContainer></MiddleContainer>
+      </div>
+      <Interduction></Interduction>
+      <PopularCard></PopularCard>
+      <CommentCards></CommentCards>
+      <Help></Help>
+      <Footer></Footer>
+      
+      
+     
+      
+    </LayOut>
+    </>
   );
 }
 

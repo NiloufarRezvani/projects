@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+.indivisual-card{
+    background-color: #DDC7BB;
+    width: 275px;
+    height: 268px;
+}
+.icon-box{
+    width: 83px;
+    height: 83px;
+    background: #FBF5F1;
+}
+/* h4{
+    font-family:"Montserrat", sans-serif ;
+} */
+#title, p {
+    font-family: "Vazirmatn", "Montserrat", sans-serif;
+  }

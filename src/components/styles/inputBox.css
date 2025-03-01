@@ -1,0 +1,13 @@
+.input-box {
+    display: flex;
+    background-color: #DDC7BB;
+    border-radius: 25px;
+    position: relative;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    width: 1075px;
+    height: 150px;
+    margin-top: -300px;
+    gap:10px;
+  }

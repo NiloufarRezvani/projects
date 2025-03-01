@@ -1,0 +1,152 @@
+
+
+{
+    "interduction": [
+        {
+            "id": 1,
+            "icons": "map-pin.svg",
+            "title": "Expert Guidence",
+            "caption": "Benefit from our team's seasoned expertise for a smooth buying experience"
+        },
+        {
+            "id": 2,
+            "icons": "service.svg",
+            "title": "Personalized Service",
+            "caption": "Our services adapt to your unique needs, making your journey stress-free"
+        },
+        {
+            "id": 3,
+            "icons": "document.svg",
+            "title": "Transparent Process",
+            "caption": "Stay informed with our clear and honest approach to buying your home"
+        },
+        {
+            "id": 4,
+            "icons": "handshake.svg",
+            "title": "Exceptional Support",
+            "caption": "Providing peace of mind with our responsive and attentive customer service"
+        }
+    ],
+    "cards": [
+        {
+            "id": 1,
+            "img": "home1",
+            "location": "San Francisco,California",
+            "rooms": "4 Rooms",
+            "size":"3,500 sq ft",
+            "price":"$2,500,000"
+        },
+        {
+            "id": 2,
+            "img": "home2",
+            "location": "Beverly Hills, California",
+            "rooms": "3 Rooms",
+            "size":"1,500 sq ft",
+            "price":"$850,000"
+        },
+        {
+            "id": 3,
+            "img": "home1",
+            "location": "Palo Alto, California",
+            "rooms": "6 Rooms",
+            "size":"4,000 sq ft",
+            "price":"$3,700,000"
+        }
+        
+    ],
+    "comments":[
+        {
+            "id": 1,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Sarah Nguyen",
+            "location": "San Francisco",
+            "comment":"Dwello truly cares about their clients. They listened to my needs and preferences and helped me find the perfect home in the Bay Area. Their professionalism and attention to detail are unmatched.",
+            "rate":"5.0"
+        },
+        {
+            "id": 2 ,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Michael Rodriguez",
+            "location": "San Diego",
+            "comment":"I had a fantastic experience working with Dwello. Their expertise and personalized service exceeded my expectations. I found my dream home quickly and smoothly. Highly recommended!",
+            "rate":"4.5"
+        },
+        {
+            "id": 3,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Emily Johnson",
+            "location": "Los Angeles",
+            "comment":"Dwello made my dream of owning a home a reality! Their team provided exceptional support and guided me through every step of the process. I couldn't be happier with my new home!",
+            "rate":"5.0"
+        }
+        ,
+        {
+            "id": 4,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Emily ",
+            "location": "1",
+            "comment":"Dwello made my dream of owning a home a realityl support and guided me through every step of the process. I couldn't be happier with my new home!",
+            "rate":"5.0"
+        },{
+            "id": 5,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "ali",
+            "location": "2",
+            "comment":"Dwello made my dream of owning a home a reality! Their team provided exceptional support and guided me through every step of the process. I couldn't be happier with my new home!",
+            "rate":"5.0"
+        },{
+            "id": 6,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "niloofar",
+            "location": "3",
+            "comment":"Dwello made my dream of owning a home a reality! Their team provided exceptional support and guided me through every step of the process. I couldn't be happier with my new home!",
+            "rate":"5.0"
+        },{
+            "id": 7,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Emily Johnson",
+            "location": "4",
+            "comment":"Dwello made my dreamnd guided me through every step of the process. I couldn't be happier with my new home!",
+            "rate":"5.0"
+        },
+        {
+            "id": 8,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Emily Johnson",
+            "location": "5",
+            "comment":"Dwello made my dream of owning a home a reality! Their team provided exceptional support and guided me through every step332545",
+            "rate":"5.0"
+        },{
+            "id": 9,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Emily Johnson",
+            "location": "6",
+            "comment":"Dwello made my dream of owning a home a reality!  4464",
+            "rate":"5.0"
+        },{
+            "id": 10,
+            "img": "handsshake",
+            "profile":"ifjofjeoei",
+            "fullName": "Emily Johnson",
+            "location": "7",
+            "comment":"eptional support and happier with my !",
+            "rate":"5.0"
+        }
+
+
+
+
+
+
+
+    ]
+}
